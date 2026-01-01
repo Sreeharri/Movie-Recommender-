@@ -95,3 +95,8 @@ if recommend_clicked:
         with col:
             st.image(poster, use_container_width=True)
             st.markdown(f"<div class='movie-title'>{name}</div>", unsafe_allow_html=True)
+
+
+
+
+#https://mr-sree-b1d83cb987ce.herokuapp.com/
